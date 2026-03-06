@@ -1,0 +1,92 @@
+{
+    "Eustachian Tube Dysfunction": {
+        "symptoms": [
+            "Ear fullness", "Muffled hearing", "Popping sound",
+            "Ear pressure", "Crackling in ear"
+        ],
+        "colloquial": [
+            "blocked", "stuffed up", "cant hear right", "feels heavy",
+            "popping when i swallow", "plugged", "pressure in my ear",
+            "ear feels clogged", "like cotton in my ear", "feels like on a plane",
+            "crackles when i yawn", "ears wont pop", "sounds far away"
+        ]
+    },
+    "Tinnitus": {
+        "symptoms": [
+            "Ringing in ear", "Buzzing sound", "Hissing noise",
+            "Clicking sound", "Persistent ear noise"
+        ],
+        "colloquial": [
+            "ringing noise", "high pitched sound", "buzzing", "hissing in my head",
+            "eee sound", "constant noise in my ear", "weird humming", "clicking inside",
+            "tone that wont stop", "like TV static", "whining sound", "whistling noise"
+        ]
+    },
+    "Otitis Media (Middle Ear Infection)": {
+        "symptoms": [
+            "Ear pain", "Fluid discharge", "Fever",
+            "Hearing loss", "Ear tenderness"
+        ],
+        "colloquial": [
+            "hurts a lot", "sharp pain", "leaking fluid", "feels hot",
+            "aching inside", "ear pain", "throbbing", "it hurts when i touch it",
+            "pus coming out", "my ear is sore", "pain deep inside", "burning pain"
+        ]
+    },
+    "Meniere's Disease": {
+        "symptoms": [
+            "Vertigo", "Tinnitus", "Hearing loss",
+            "Ear fullness", "Loss of balance"
+        ],
+        "colloquial": [
+            "room is spinning", "dizzy", "ringing", "cant keep balance",
+            "deaf in one ear", "sudden dizziness", "world spins randomly",
+            "feel like im on a boat", "nauseous and dizzy", "lost my balance"
+        ]
+    },
+    "Otitis Externa (Swimmer's Ear)": {
+        "symptoms": [
+            "Ear canal pain", "Itching in ear", "Discharge",
+            "Ear swelling", "Reduced hearing"
+        ],
+        "colloquial": [
+            "itchy inside", "ear canal hurts", "wet feeling wont go",
+            "hurts to pull my ear", "keeps itching", "swollen ear",
+            "pain when i chew", "discharge from ear", "red and sore"
+        ]
+    },
+    "Cerumen Impaction (Ear Wax Blockage)": {
+        "symptoms": [
+            "Ear blockage", "Muffled hearing", "Ear fullness",
+            "Earache", "Tinnitus"
+        ],
+        "colloquial": [
+            "wax build up", "ear is blocked", "cant hear clearly",
+            "feels stuffed", "everything sounds muffled", "ear wax problem",
+            "like something is stuck", "hearing went dull", "partial deafness"
+        ]
+    },
+    "Acoustic Neuroma": {
+        "symptoms": [
+            "One-sided hearing loss", "Tinnitus", "Balance problems",
+            "Facial numbness", "Dizziness"
+        ],
+        "colloquial": [
+            "only one ear works", "one side is gone", "off balance",
+            "face feels numb", "hearing worse on one side", "ringing on one side",
+            "dizzy spells", "cant hear from left ear", "strange face sensation"
+        ]
+    },
+    "Noise-Induced Hearing Loss": {
+        "symptoms": [
+            "Hearing loss", "Tinnitus", "Difficulty understanding speech",
+            "Sound sensitivity", "Muffled hearing"
+        ],
+        "colloquial": [
+            "cant hear clearly after concert", "ringing after loud noise",
+            "everything sounds muffled", "words sound unclear",
+            "loud sounds bother me", "hearing got worse", "cant follow conversations",
+            "music sounds off", "voices hard to understand"
+        ]
+    }
+}
