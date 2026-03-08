@@ -1,0 +1,15 @@
+                                      precision    recall  f1-score   support
+
+                    Acoustic Neuroma       0.73      0.86      0.79        43
+Cerumen Impaction (Ear Wax Blockage)       0.48      0.74      0.58        31
+         Eustachian Tube Dysfunction       0.94      0.84      0.89        38
+                   Meniere's Disease       0.89      0.84      0.86        37
+          Noise-Induced Hearing Loss       0.77      0.91      0.83        44
+      Otitis Externa (Swimmer's Ear)       0.71      0.84      0.77        38
+ Otitis Media (Middle Ear Infection)       0.68      0.94      0.79        34
+                            Tinnitus       0.80      0.97      0.88        36
+
+                           micro avg       0.74      0.87      0.80       301
+                           macro avg       0.75      0.87      0.80       301
+                        weighted avg       0.75      0.87      0.80       301
+                         samples avg       0.79      0.90      0.81       301
