@@ -30,5 +30,9 @@
     "been": ["ben", "been", "bin"],
     "week": ["wek", "week"],
     "just": ["jst", "just"],
-    "like": ["liek", "like", "lke"]
+    "like": ["liek", "like", "lke"],
+    "i am": ["im", "i'm", "i am"],
+    "i have": ["ive", "i've", "i have"],
+    "i": ["i", "I"],
+    "you": ["you", "u"]
 }
